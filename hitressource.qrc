@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>Miami_night_1280_x_780.jpg</file>
+        <file>laby1_640x360.jpg</file>
+    </qresource>
+</RCC>
